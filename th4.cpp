@@ -98,5 +98,6 @@ void chen(List &l){
 
 int main(){
     cout << "Hello world, toi da commit file nay";
+    cout << "ok";
     return 0;
 }
